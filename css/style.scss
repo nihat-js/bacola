@@ -76,3 +76,18 @@ section.top-nav {
       }
    }
 }
+
+section.main-nav {
+   .container {
+      .row {
+         display: flex;
+         justify-content: space-between;
+
+         .left-column {
+            img {
+               width: 160px;
+            }
+         }
+      }
+   }
+}

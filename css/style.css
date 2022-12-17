@@ -59,3 +59,11 @@ section.top-nav .container .row .right-menu .switchers {
 section.top-nav .container .row .right-menu .switchers .switcher {
   padding: 0 0.5rem;
 }
+
+section.main-nav .container .row {
+  display: flex;
+  justify-content: space-between;
+}
+section.main-nav .container .row .left-column img {
+  width: 160px;
+}
